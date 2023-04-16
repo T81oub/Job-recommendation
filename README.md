@@ -45,7 +45,7 @@ The cleaningdata.py file contains code that cleans and preprocesses the job data
 5. Preprocesses the jobdescription column by converting it to lowercase and applying stemming.
 6. Saves the cleaned data to a new CSV file in the data folder.
 
-##Recommendation System
+## Recommendation System
 The recommendationsystem.py file contains code that performs the job recommendation process. It performs the following tasks:
 
 1. Loads the cleaned job data from a CSV file.
