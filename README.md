@@ -30,6 +30,7 @@ Send a POST request to the /recommend endpoint with the user information in JSON
 {
     "user_info": "C++, Developer, Development, JavaScript, User Interface, HTML"
 }
+```
 
 The server will return a JSON response containing the top job titles, companies, and descriptions that match the user's preferences.
 
